@@ -78,23 +78,6 @@ All contacts are saved in the browser, so data remains available after page relo
 
 ---
 
-
-## ⚙️ How It Works
-
-### ➕ Add Contact
-
-Users can create a new contact by entering:
-
-- Full Name
-- Phone Number
-- Email Address
-- Address
-- Contact Group
-- Notes
-- Profile Image
-
----
-
 ---
 
 ## ⚙️ How It Works

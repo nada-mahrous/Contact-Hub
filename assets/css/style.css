@@ -1,0 +1,54 @@
+/* global */
+@import "global/global.css";
+
+/* plugins */
+@import "plugins/css/all.min.css";
+
+/* Sections */
+@import "sections/navbar.css";
+@import "sections/summary-cards-top.css";
+@import "sections/contacts-dashboard.css";
+
+
+
+
+
+/* inline--------id---------class---------element */
+
+/******************** Media Query ********************/
+
+/* mobile first */
+
+/* sm */
+/* @media screen and (min-width: 640px) {
+} */
+
+/* md */
+/* @media screen and (min-width: 768px) {
+} */
+
+/* lg */
+/* @media screen and (min-width: 1024px) {
+} */
+
+/* xl */
+/* @media screen and (min-width: 1280px) {
+} */
+
+/* xxl */
+/* @media screen and (min-width: 1536px) {
+} */
+
+/* ******************************************** */
+
+/******************** spacing Bootstrap ********************/
+
+/* 
+ClassSize Suffix 	   REM Value	   Pixel (px) Value
+ p-0	                   0	              0px
+ p-1	                   0.25rem	          4px
+ p-2	                   0.5rem	          8px
+ p-3	                   1rem	              16px
+ p-4	                   1.5rem	          24px
+ p-5	                   3rem	              48px 
+*/

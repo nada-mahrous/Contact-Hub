@@ -1,0 +1,60 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: "Inter", sans-serif;
+  /* font-family: "Noto Color Emoji", sans-serif; */
+  /* font-style: normal; */
+  /* color: #f1f1f1; */
+  /* background-color: #f8fafc; */
+  background-color: #F8FAFC;
+}
+html {
+  scroll-behavior: smooth;
+}
+body::selection {
+  background-color: #1447e6;
+  color: #fff;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 0 !important;
+}
+/* :root {
+  
+  
+  --primary-color: #cbfe1c;
+  --text-color: #f1f1f1;
+  --gray-color: #99a1af;
+} */
+
+/* ****************************************** */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ****************************************** */
+
+
+
+
+/* ****************************************** */
+/* ****************************************** */
+
+/******************** Media Query ********************/

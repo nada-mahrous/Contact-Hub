@@ -78,21 +78,6 @@ All contacts are saved in the browser, so data remains available after page relo
 
 ---
 
-## 📂 Project Structure
-
-```bash
-Contact-Hub/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-├── imgs/
-│   └── project images
-└── README.md
-
----
 
 ## ⚙️ How It Works
 
@@ -110,26 +95,36 @@ Users can create a new contact by entering:
 
 ---
 
+---
+
+## ⚙️ How It Works
+
+### ➕ Add Contact
+
+Users can create a new contact by entering:
+
+- Full Name
+- Phone Number
+- Email Address
+- Address
+- Contact Group
+- Notes
+- Profile Image
+
 ### ✏️ Update Contact
 
 - Existing contact data is loaded automatically into the form
 - Users can modify and save updated information easily
-
----
 
 ### 🗑️ Delete Contact
 
 - Confirmation popup appears before deleting
 - Prevents accidental deletion
 
----
-
 ### ⭐ Toggle Favorite & Emergency
 
 - Dynamic buttons switch between active and inactive states
 - Icons and colors update instantly
-
----
 
 ### 🔍 Search System
 
@@ -194,7 +189,7 @@ This project was built to practice:
 
 ### Nada Mahrous
 
-- GitHub: https://github.com/nada-mahrous
+- GitHub: [nada-mahrous](https://github.com/nada-mahrous)
 - LinkedIn: Add Your LinkedIn Here
 
 ---

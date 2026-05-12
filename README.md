@@ -15,7 +15,7 @@ A clean and interactive contact management website that helps users add, organiz
 
 ## 📸 Preview
 
-![Contact Hub Preview](./preview.png)
+![Contact Hub Preview](./preview.PNG)
 
 ---
 

@@ -173,7 +173,7 @@ This project was built to practice:
 ### Nada Mahrous
 
 - GitHub: [nada-mahrous](https://github.com/nada-mahrous)
-- LinkedIn: Add Your LinkedIn Here
+- LinkedIn: https://www.linkedin.com/in/nada-mahrous/
 
 ---
 
